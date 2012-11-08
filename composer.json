@@ -1,0 +1,8 @@
+{
+    "name" : "sencha/extjs-ux-callout",
+    	
+    "require": {
+        "php": ">=5.3.3",
+		"sencha/extjs" : ">=4.1.1"
+    }
+}
